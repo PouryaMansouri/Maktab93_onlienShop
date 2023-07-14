@@ -36,7 +36,7 @@ We gotta get this project up and running! Here are some tasks for you:
 ### Deliverables:
 
 - A Git repository containing your Django project
-- A `README.md` file with instructions on how to set up and run the project using Docker.
+
 
 ### Section 2: Product Listing and Shopping Cart (100 points)
 
@@ -65,6 +65,7 @@ It's time to let our users in on the fun! Here's what you need to do:
 ### Deliverables:
 
 - Updated Git repository with code for product listing and shopping cart features.
+- A `README.md` file with instructions on how to set up and run the project using Docker.
 
 ### Section 3: Checkout Process and Email Notifications (100 points)
 
